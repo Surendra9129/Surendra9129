@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surendra Yadav</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **@MASAI SCHOOL**
+- 🌱 I’m currently learning **full-stack web development**
 
 - 📝 I write articles on [https://medium.com/@surendrayadav91296](https://medium.com/@surendrayadav91296)
 
