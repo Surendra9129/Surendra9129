@@ -16,6 +16,7 @@
 <a href="https://twitter.com/@surendr40000457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@surendr40000457" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/surendra-yadav-75812b1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surendra-yadav-75812b1a1" height="30" width="40" /></a>
 <a href="https://medium.com/@surendrayadav91296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@surendrayadav91296" height="30" width="40" /></a>
+  <a href="https://surendra-portfolio.vercel.app" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0o78SPadrGG2egcNyPa1lJLNMvY5RUKtqwA&usqp=CAU" alt="surendra-portfolio.vercel.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
